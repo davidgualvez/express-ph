@@ -1,0 +1,114 @@
+[22-Jun-2018 00:35:40 Asia/Manila] PHP Fatal error:  Function name must be a string in /home/yclubph/public_html/yamaha-api/app/Http/Controllers/Redemption_Controller.php on line 1007
+[22-Jun-2018 00:35:55 Asia/Manila] PHP Fatal error:  Function name must be a string in /home/yclubph/public_html/yamaha-api/app/Http/Controllers/Redemption_Controller.php on line 1007
+[05-Jul-2018 22:49:24 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 262144 bytes) in /home/yclubph/public_html/yamaha-api/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 325
+[10-Jul-2018 17:15:00 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/yclubph/public_html/yamaha-api/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 325
+[11-Jul-2018 09:28:07 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/yclubph/public_html/yamaha-api/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 325
+[11-Jul-2018 09:29:50 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 81 bytes) in /home/yclubph/public_html/yamaha-api/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 325
+[16-Jul-2018 09:34:27 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalName() on null in /home/yclubph/public_html/yamaha-api/app/Uploader.php on line 17
+[16-Jul-2018 09:36:13 Asia/Manila] PHP Fatal error:  Call to a member function getClientOriginalName() on null in /home/yclubph/public_html/yamaha-api/app/Uploader.php on line 17
+[19-Jul-2018 07:41:44 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 07:41:44 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 07:41:46 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 07:41:46 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 07:41:55 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 07:42:01 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 07:42:25 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 07:42:28 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 07:42:33 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 07:42:54 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 10:01:26 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 10:01:27 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 10:01:28 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 10:01:29 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 10:01:31 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 10:01:32 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 10:01:32 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 10:01:43 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[19-Jul-2018 10:01:45 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:39:40 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:39:43 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:39:53 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:39:54 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:39:54 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:39:54 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:39:56 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:40:12 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:40:37 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:41:59 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:42:04 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:42:04 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:42:07 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:42:08 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:42:08 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:42:08 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:42:10 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[20-Jul-2018 05:42:10 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[23-Jul-2018 09:28:27 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[23-Jul-2018 09:28:41 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[23-Jul-2018 09:29:07 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[23-Jul-2018 09:29:07 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[23-Jul-2018 09:29:08 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[23-Jul-2018 09:29:09 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[23-Jul-2018 09:29:13 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[23-Jul-2018 09:29:13 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[23-Jul-2018 09:29:13 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[23-Jul-2018 09:29:16 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:16:14 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:16:24 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:16:28 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:16:48 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:16:48 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:16:49 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:16:50 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:16:52 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:16:53 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:16:53 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:16:57 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:16:58 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:17:06 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:17:08 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:17:09 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:17:10 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:17:22 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:17:24 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:17:36 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:17:37 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:17:45 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:17:57 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:18:07 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:18:19 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:20:25 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:33:18 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:33:26 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:33:26 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:33:29 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:33:35 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:33:39 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:33:42 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:33:49 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:33:50 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:34:37 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:34:50 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 00:35:24 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[25-Jul-2018 07:41:37 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:05:23 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:07:05 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:07:36 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:07:41 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:07:48 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:08:02 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:08:12 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:08:12 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:08:13 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:08:15 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:08:16 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:08:16 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:08:16 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[27-Jul-2018 08:08:42 UTC] PHP Warning:  putenv(): Invalid parameter syntax in /home/yclubph/public_html/yamaha-test-api/vendor/vlucas/phpdotenv/src/Loader.php on line 345
+[11-Aug-2018 16:49:45 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/yclubph/public_html/yamaha-test-api/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 325
+[11-Aug-2018 16:50:15 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 85 bytes) in /home/yclubph/public_html/yamaha-test-api/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 325
+[11-Aug-2018 16:54:18 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 23 bytes) in /home/yclubph/public_html/yamaha-test-api/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 325
+[11-Aug-2018 17:04:15 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 83 bytes) in /home/yclubph/public_html/yamaha-test-api/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 325
+[11-Aug-2018 17:22:04 Asia/Manila] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/yclubph/public_html/yamaha-test-api/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 325
+[18-Aug-2018 15:19:43 Asia/Manila] PHP Fatal error:  Class 'App\earnTransaction' not found in /home/yclubph/public_html/yamaha-test-api/app/Http/Controllers/EarnPoints_Controller.php on line 190
+[20-Aug-2018 13:25:02 Asia/Manila] PHP Fatal error:  Class 'App\voidTransaction' not found in /home/yclubph/public_html/yamaha-test-api/app/Http/Controllers/Void_Controller.php on line 129
