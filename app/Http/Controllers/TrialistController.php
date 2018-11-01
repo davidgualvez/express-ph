@@ -67,7 +67,8 @@ class TrialistController extends Controller
 			$tl->save();
 		}else{
 			$tl = new Trialist;
-			$tl->link = $request->link;
+			$tl->link 	= $request->link;
+			$tl->count 	= 1;
 			$tl->save();
 		} 
 
